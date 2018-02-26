@@ -46,7 +46,7 @@ $home_body =  <<<HOME_BODY
     <h4>Tennessee Research and Creative Exchange (TRACE) is the University of Tennessee’s open repository.</h4>
 
             <p>
-                <img class="alignright" alt="UT students walking on a sidewalk" src="https://www.lib.utk.edu/template/2016/images-utlibraries/trace-home.jpg">TRACE shines a light on UT scholarship, giving the public access to Volunteers’ research and creative work.
+                <img class="alignright" alt="UT students walking on a sidewalk" src="sites/all/themes/UTKdrupal/images/trace-home.jpg">TRACE shines a light on UT scholarship, giving the public access to Volunteers’ research and creative work.
             </p>
             <p>
                 The UT Libraries encourage Volunteer faculty and graduate students to submit work to TRACE in order to:
