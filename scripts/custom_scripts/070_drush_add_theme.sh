@@ -17,7 +17,7 @@ cd "$DRUPAL_HOME"/sites/all/themes || exit
 git clone https://github.com/utkdigitalinitiatives/UTKdrupal
 cd "$DRUPAL_HOME"/sites/all/themes/UTKdrupal || exit
 git pull
-git checkout horizontal
+git checkout TRAC-995
 cd "$DRUPAL_HOME"/sites/all/themes || exit
 
 # Set permissions UTKdrupal
